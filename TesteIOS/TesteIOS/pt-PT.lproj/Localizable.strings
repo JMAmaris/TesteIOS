@@ -1,0 +1,19 @@
+/* 
+  Localizable.strings
+  TesteIOS
+
+  Created by Jorge Mendes on 28/05/16.
+  Copyright © 2016 amaris. All rights reserved.
+*/
+
+"ads_title" = "Anúncios";
+"error_fetching_ads" = "Ocorreu um erro a carregar os daods. Por favor tenta novamente.";
+"ok_button" = "Ok";
+"loading" = "A carregar...\n\n";
+"map_title" = "Mapa";
+"no_permission_request" = "São necessárias permissões de localização para obter uma melhor experiência de utilização. Por favor conceda-as nas Definições.";
+"ignore_button" = "Ignorar";
+"settings_button" = "Definições";
+"no_route_found" = "Não foi possivel encontrar uma rota desde a sua localização. Por favor tente mais tarde.";
+"calculating_route" = "A calcular rota...\n\n";
+"no_image" = "Sem imagem";

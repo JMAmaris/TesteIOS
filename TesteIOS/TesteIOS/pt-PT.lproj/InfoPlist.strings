@@ -1,0 +1,9 @@
+/* 
+  InfoPlist.strings
+  TesteIOS
+
+  Created by Jorge Mendes on 28/05/16.
+  Copyright © 2016 amaris. All rights reserved.
+*/
+
+"NSLocationWhenInUseUsageDescription" = "A aplicação nessecita de permissões para aceder à sua localização.";

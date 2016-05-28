@@ -1,0 +1,19 @@
+/* 
+  Localizable.strings
+  TesteIOS
+
+  Created by Jorge Mendes on 28/05/16.
+  Copyright © 2016 amaris. All rights reserved.
+*/
+
+"ads_title" = "Ads";
+"error_fetching_ads" = "There was an error loading the data. Please try again.";
+"ok_button" = "Ok";
+"loading" = "Loading...\n\n";
+"map_title" = "Map";
+"no_permission_request" = "Location permissions are required for a better user experience. Please give them in Settings.";
+"ignore_button" = "Ignore";
+"settings_button" = "Settings";
+"no_route_found" = "Could not find a route from your location. Please try again later.";
+"calculating_route" = "Calculating route...\n\n";
+"no_image" = "No image";
